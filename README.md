@@ -1,2 +1,2 @@
 # picture
-for picGo
+- this is a picture repo for picGo
